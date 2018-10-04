@@ -1,4 +1,4 @@
-package com.example.Cloud1188;
+package com.example.SampleSecurity;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
