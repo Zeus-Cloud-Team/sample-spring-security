@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.example</groupId>
-	<artifactId>Cloud1188</artifactId>
+	<artifactId>SampleSecurity</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>Cloud1188</name>
+	<name>SampleSecurity</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
@@ -58,6 +58,4 @@
 			</plugin>
 		</plugins>
 	</build>
-
-
 </project>
